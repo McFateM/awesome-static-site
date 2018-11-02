@@ -11,13 +11,13 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "Mark A. McFate"
+    site_description = "An awesome-static-site by M. McFate, lifted from a blog by John Doe."
+    location = "Grinnell College Libraries"
     # Link custom assets relative to /static
     avatar = "img/hugo-logo.png"
     header_background = "img/coffee.jpg"
-    header_title = "My awesome static site"
+    header_title = "Mark's Awesome Static Site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
@@ -29,11 +29,11 @@ theme = "hugo-minimalist-theme"
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
-    twitter   = "nbarbettini"
-    facebook  = ""
-    linkedin  = ""
+    twitter   = "SummittDweller"
+    facebook  = "mark@tamatoledo.net"
+    linkedin  = "mark@tamatoledo.net"
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "nbarbettini"
+    github    = "McFateM"
     gplus     = ""
