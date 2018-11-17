@@ -1,4 +1,5 @@
-baseurl = "https://awesome-static-site.docksal/"
+# baseurl = "https://awesome-static-site.docksal/"
+baseurl = "https://static.grinnell.edu/"
 languageCode = "en-us"
 title = "Mark's Awesome Static Site"
 # Define how many pages appear per site
